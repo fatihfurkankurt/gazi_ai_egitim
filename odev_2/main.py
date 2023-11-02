@@ -15,7 +15,7 @@ print (f"Sevgi Skorunuz: {score} \n")
 
 if score <3:
     print("Sevmiyor :(")
-elif 3<=score<=7:
+elif 3<=score<=5:
     print("Arkadaş olarak görüyor :|")
 else:
     print ("Çok seviyor :)")
